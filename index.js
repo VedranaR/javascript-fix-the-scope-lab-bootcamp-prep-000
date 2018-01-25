@@ -27,9 +27,9 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction
 
-describe('Fix the Scope', function() {
-  describe('myAnimal()', function() {
-    it('returns my animal', () => {
-      expect(window.myAnimal()).toEqual('dog')
-    })
-  })
+//describe('Fix the Scope', function() {
+  //describe('myAnimal()', function() {
+ //   it('returns my animal', () => {
+  //    expect(window.myAnimal()).toEqual('dog')
+  //  })
+ // })
